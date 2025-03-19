@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is E670-9822
-
- Directory of C:\Users\chait\Desktop\MyProject
-
-19-03-2025  23:26    <DIR>          .
-17-03-2025  14:03    <DIR>          ..
-19-03-2025  23:26                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  298,169,298,944 bytes free
+change 1
